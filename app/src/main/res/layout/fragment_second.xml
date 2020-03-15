@@ -36,15 +36,6 @@
                     android:scaleType="fitStart"
                     android:src="@drawable/sheya_1" />
 
-                <TextView
-                    android:id="@+id/textView4"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="облачно"
-                    android:textAlignment="viewStart"
-                    android:textColor="#F6F3F3"
-                    android:textSize="30sp" />
-
             </LinearLayout>
 
         </LinearLayout>
